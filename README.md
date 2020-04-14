@@ -24,7 +24,6 @@ returns back with the name of that you sent in.
 
 ## Technology Used
 * React
-* SASS
 * Node
 * Express
 * PostgreSQL
