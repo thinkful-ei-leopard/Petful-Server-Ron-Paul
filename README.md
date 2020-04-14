@@ -30,4 +30,4 @@ returns back with the name of that you sent in.
 * PostgreSQL
 
 ## Authors
-Ron Martin and Paul Baisley
+[Ron Martin](https://github.com/Izzle) and [Paul Baisley](https://github.com/wavinginspace)
